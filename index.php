@@ -21,7 +21,7 @@
 
 <body>
 <main class="container" id="index">
-    <div class="card w-50 shadow p-4">
+    <div class="card w-50 shadow p-4 mx-auto">
         <div class="card-body">
             <div>
                 <h1 class="ssm mb-0">

@@ -50,9 +50,23 @@ body {
 }
 
 #content h3 {
+	font-family: 'SamsungSharpSans-Bold';
 	color: #0f1a4d;
 }
 
 #content h4 {
+	font-family: 'SamsungSharpSans-Medium';
+	color: #1428a0;
+}
+.nav-tabs a,
+.nav-tabs a:visited
+{
+	color: initial;
+}
+.nav-tabs .active.indexBorderBottom {
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-bottom: 3px solid #1428a0;
 	color: #1428a0;
 }
